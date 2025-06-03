@@ -14,7 +14,7 @@ Additionally, cloud mining services provide an alternative for those who prefer 
 
 In recent years, environmental concerns surrounding cryptomining have sparked discussions about transitioning to more sustainable models, such as Proof-of-Stake (PoS). Despite these challenges, cryptomining continues to attract enthusiasts seeking financial independence in the decentralized economy.
 
-![Image](https://github.com/user-attachments/assets/590b50a7-4459-4e76-8a31-559aed223621)
+![Image](https://github.com/user-attachments/assets/2f28260c-070b-4510-ac3e-ee42ca124355)
 
 In conclusion, cryptomining offers a dynamic avenue for generating passive income in the cryptocurrency ecosystem. As technology advances and new cryptocurrencies emerge, the potential for profitable mining operations will likely expand further. Whether through traditional mining rigs, cloud solutions, or participation in mining pools, the world of cryptomining presents numerous opportunities for those willing to explore this exciting frontier.
 
